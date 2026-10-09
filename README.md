@@ -16,7 +16,7 @@ src/
   analysis/    Python analysis — statistics/trends over the snapshots
   data/        curated rules + watchlists (seed) and snapshots/ (collector output)
   ui/          vanilla JS static pages → GitHub Pages
-docs/
+  docs/        documentation
 ```
 
 ## Data sources
